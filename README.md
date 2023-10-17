@@ -1,0 +1,1 @@
+ibmcloud static binary
